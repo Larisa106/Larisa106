@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Larisa106
+- 👋 Hi, I’m Larisa
 - 👀 I’m interested in ...technology
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...projects
